@@ -4,7 +4,8 @@
 - 💞️ Estou procurando colaborar em projetos e futuramente fazer um app mobile
 - 📫 Você pode entrar em contato comigo em: devsassa@gmail.com
 - 😄 Pronomes: Ela/Dela
-- ⚡ Curiosidades: Sou muito criativa, adoro design, sou vegetariana e amo culinária
+- 🌿 Vegetariana
+- ⚡ Curiosidades: Sou muito criativa e apaixonada por design e tecnologia.
 
 <!---
 Sassadev/Sassadev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
